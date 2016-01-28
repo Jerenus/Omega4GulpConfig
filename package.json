@@ -1,0 +1,23 @@
+{
+  "name": "fctd_base_theme",
+  "version": "1.0.0",
+  "scripts": {
+    "sass:dev": "./node_modules/.bin/gulp",
+    "sass:prod": "./node_modules/.bin/gulp sass:prod"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bourbon": "^4.2.3",
+    "breakpoint-sass": "^2.6.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-if-else": "^1.0.3",
+    "gulp-livereload": "^3.8.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-watch": "^4.3.3",
+    "node-bourbon": "^4.2.3",
+    "node-sass-globbing": "0.0.23",
+    "yargs": "^3.21.0"
+  }
+}
