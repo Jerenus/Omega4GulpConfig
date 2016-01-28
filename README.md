@@ -1,7 +1,6 @@
 # Omega4GulpConfig
 
-sudo npm install
-cd ../THEMEPATH
-gulp
+* sudo npm install
+* cd ../THEMEPATH
+* gulp
 
-### Enjoy
