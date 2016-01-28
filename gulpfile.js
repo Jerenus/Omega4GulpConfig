@@ -14,6 +14,8 @@ var sass_config = {
   importer: importer,
   includePaths: [
     './node_modules/breakpoint-sass/stylesheets/',
+    './node_modules/compass-mixins/lib/',
+    './node_modules/susy/sass/',
     require('node-bourbon').includePaths
   ],
   sourcemap: true
